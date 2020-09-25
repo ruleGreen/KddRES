@@ -20067,7 +20067,7 @@
                 "role": "sys",
                 "dialog_act": [
                     [
-                        "Infrom",
+                        "Inform",
                         "餐館",
                         "菜品",
                         {
@@ -54294,7 +54294,7 @@
                 "role": "sys",
                 "dialog_act": [
                     [
-                        "Infrom",
+                        "Inform",
                         "餐館",
                         "菜品",
                         {
@@ -72662,7 +72662,7 @@
                 "role": "sys",
                 "dialog_act": [
                     [
-                        "Infrom",
+                        "Inform",
                         "餐館",
                         "菜品",
                         {
