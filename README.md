@@ -6,6 +6,8 @@ We have also prepared a version of Simplified Chinese.
 - data_zh_hant: Cantonese version
 ## Data
 We introduce the concept of secondary slots to better record fine-grained slots’ information. A secondary slot refers to a slot that containing more detailed information. For example, when a user wants to know about a restaurant’s dishes, task-oriented dialogue system can not only tell the name of the dishes, but also the price of the dishes. User can also specifically ask about the price of a certain dish. Dishes and Dishes-price are the secondary slots in this scenario.
+
+All secondary slots and their primary slots in KddRES(translated into English):
 ![image](https://github.com/ruleGreen/KddRES/blob/master/secondary_slot.png)
 
 Data statistics:
