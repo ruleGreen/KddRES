@@ -1,5 +1,5 @@
 # KddRES
-This is the first Cantonese knowledge-driven Dialogue Dataset for REStaurant (KddRES) in Hong Kong, which grounds the information in multi-turn conversations to one specific restaurant.It contains 0.8k conversations which derive from 10 restaurantswith various styles in different regions. In addition to that, we designed fine-grained slots and intents to better capture semantic information.
+This is the first Cantonese knowledge-driven Dialogue Dataset for REStaurant (KddRES) in Hong Kong, which grounds the information in multi-turn conversations to one specific restaurant. It contains 0.8k conversations which derive from 10 restaurantswith various styles in different regions. In addition to that, we designed fine-grained slots and intents to better capture semantic information.
 
 We have also prepared a version of Simplified Chinese.
 - data_zh_hans: Simplified Chinese version
@@ -14,8 +14,9 @@ Data statistics:
 
 ![image](https://github.com/ruleGreen/KddRES/blob/master/statistic.png)
 
+POSS is the proportion of dialogues that contain the secondary slots
 ## Experiment
-We have implemented NLU(Natural Language Understanding) on KddRES with four models: BiLSTM,BiLSTM+CRF,BERT and BERT+crf
+We have implemented NLU(Natural Language Understanding) on KddRES with four models: BiLSTM,BiLSTM+CRF,BERT and BERT+CRF
 ### Running
 ```
 cd baseline
