@@ -46,3 +46,14 @@ bash run/kddres_bertcrf.sh
 ### Results
 ![image](https://github.com/ruleGreen/KddRES/blob/master/result.png)
 ## Citing
+
+```
+@misc{wang2020kddres,
+      title={KddRES: A Multi-level Knowledge-driven Dialogue Dataset for Restaurant Towards Customized Dialogue System}, 
+      author={Hongru Wang and Min Li and Zimo Zhou and Gabriel Pui Cheong Fung and Kam-Fai Wong},
+      year={2020},
+      eprint={2011.08772},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
