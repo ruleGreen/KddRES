@@ -57,3 +57,7 @@ bash run/kddres_bertcrf.sh
       primaryClass={cs.CL}
 }
 ```
+
+## Copyright
+
+The datasets are released for academic research only and it is free to researchers from educational or research institutions for non-commercial purposes. When downloading the dataset you agree not to reproduce, duplicate, copy, sell, trade, resell or exploit for any commercial purposes, any portion of the images and any portion of derived data.
