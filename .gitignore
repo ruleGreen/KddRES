@@ -1,0 +1,5 @@
+__pycache__/
+saved/
+wandb/
+logs/
+.vscode/

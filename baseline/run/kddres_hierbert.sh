@@ -1,0 +1,11 @@
+python hier_bert_train.py \
+--seed 19 \
+--batch_size 32 \
+--learning_rate 3e-5 \
+--n_epochs 80 \
+--warmup_step_ratio 0.1 \
+--lr_decay \
+--pretrained_model_name hfl/chinese-bert-wwm-ext \
+--patience 5 \
+--save_prefix "HierBert-0.2" \
+--do_train --do_val --do_test
